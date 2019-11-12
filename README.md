@@ -1,5 +1,5 @@
 # Fourier_Image
-## Draws the image features using Fourier Series.
+## Draws image features using Fourier Series.
 
 This project uses Fourier Series and Fourier transform to draw any image. The image is read and it's features are extracted using the OpenCV library.
 
